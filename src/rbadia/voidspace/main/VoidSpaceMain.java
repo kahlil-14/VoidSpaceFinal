@@ -1,3 +1,5 @@
+//Proyecto hecho por: Kahlil J. Fonseca Garcia  y  Fernando A. Molina Cintron
+
 package rbadia.voidspace.main;
 
 import javax.swing.JFrame;
